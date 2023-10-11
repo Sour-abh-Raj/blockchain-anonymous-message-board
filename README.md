@@ -14,8 +14,8 @@ An anonymous message board backed by blockchain technology.
 
 ## Run the app:
 
-- In the project folder run ``` pip install -r requirements.txt ```.
-- To access the app run ``` python app.py ```.
+- In the project folder run `pip install -r requirements.txt`.
+- To access the app run `python app.py`.
 - Access the app in the browser by visiting http://127.0.0.1:5000.
 
 ## Access the app here:
@@ -25,8 +25,3 @@ An anonymous message board backed by blockchain technology.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
