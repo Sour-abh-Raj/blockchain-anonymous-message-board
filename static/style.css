@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.message {
+  background-color: #333;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.message p {
+  margin: 0;
+}
+.message .timestamp {
+  font-size: 12px;
+  color: #999;
+}
+.input-container {
+  display: flex;
+  margin-top: 20px;
+}
+.input-container input[type="text"] {
+  flex-grow: 1;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+}
+.input-container input[type="submit"] {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
